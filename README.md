@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm wy-os
+<h1 align="center">Hi 👋, I'm wyyolo
   <div style="text-align: center;">
 </h1>
 
@@ -9,9 +9,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/wy-os/count.svg) visitor
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wy-os)](https://github.com/wy-os/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyyolo)](https://github.com/wyyolo/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wy-os&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyyolo&show_icons=true&theme=tokyonight)
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
