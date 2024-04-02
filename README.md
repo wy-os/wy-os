@@ -11,8 +11,6 @@
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyyolo)](https://github.com/wyyolo/github-readme-stats)
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=wyyolo&theme=xcode" /> </div>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyyolo&show_icons=true&theme=tokyonight)
 
 # <br/>  
